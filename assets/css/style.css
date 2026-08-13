@@ -1,0 +1,37 @@
+html{
+    background-color: rgba(157, 157, 157, 0.785);
+}
+li:hover{
+    background-color: white
+}
+sobre.html{
+    background-color: rgba(157,157,157,0.785);
+}
+header{
+margin: 0;
+background-color: grey;
+height: 100px;
+width: 100vw;
+}
+nav{
+    height: 100%;
+    
+
+}ul{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    list-style:none;
+display: flex;
+gap: 8px;
+align-items: center;
+justify-content: center;
+}
+li{
+    text-decoration: none;
+
+}
+a{
+background-color: grey;
+padding: 8px,16px;
+}

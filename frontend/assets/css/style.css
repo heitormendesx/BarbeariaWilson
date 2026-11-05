@@ -1,0 +1,30 @@
+html{
+    background-color: grey;
+}
+
+
+
+div{
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+
+
+
+    
+
+
+
+
+li{
+    text-decoration:dashed
+
+}
+a{
+background-color: grey;
+padding: 8px,16px;
+}
+

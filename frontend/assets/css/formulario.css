@@ -1,0 +1,18 @@
+html{
+background-color: grey;
+}
+
+div{
+    height: 1%;
+    width: 50%;
+    margin: 1%;
+display: flex;
+gap: 4px;
+align-self: baseline;
+
+
+}
+button{
+    background-color: green;
+
+}
